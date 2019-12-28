@@ -4,7 +4,8 @@ meat
 rice
 veggies
 chicken 
-
+beans 
+pizza
 
 thank you :)
 Bye!!
